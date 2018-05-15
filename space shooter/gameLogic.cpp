@@ -3,6 +3,8 @@
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
 
+//test comment
+
 //Hàm bool để sắp xếp danh sách
 //từ cao tới thấp
 bool descending(int a, int b) { return a > b; }
